@@ -12,6 +12,7 @@ Book Store works with a variety of open source initiatives, including :
 * [Mongoose](http://mongoosejs.com/index.html) - Mongoose is a Node. js-based Object Data Modeling (ODM) library for MongoDB.
 * [MongoDB](https://www.mongodb.com) -  a source-available cross-platform document-oriented database program. Classified as a NoSQL database program, MongoDB uses JSON-like documents with optional schemas.
 * [Passport](https://www.passportjs.org/) - Passport is authentication middleware for Node.js. Extremely flexible and modular, Passport can be unobtrusively dropped in to any Express-based web application.
+* [Postman](https://www.postman.com/) - Used Postman for Api testing.
 
 ### Authors
 

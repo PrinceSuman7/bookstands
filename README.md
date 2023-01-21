@@ -1,4 +1,4 @@
-# bookstands
+# Bookstands
 
 Book Store is a straightforward single page application (SPA) that enables you to buy, rate, and comment on all of the books that are offered for sale. Additionally, you can make a list of your favourite books or view the history of all the books you've bought.
 
@@ -11,8 +11,9 @@ Book Store works with a variety of open source initiatives, including :
 * [ExpressJS](https://expressjs.com) - Fast, unopinionated, minimalist web framework for NodeJS
 * [Mongoose](http://mongoosejs.com/index.html) - Mongoose is a Node. js-based Object Data Modeling (ODM) library for MongoDB.
 * [MongoDB](https://www.mongodb.com) -  a source-available cross-platform document-oriented database program. Classified as a NoSQL database program, MongoDB uses JSON-like documents with optional schemas.
+* [Passport](https://www.passportjs.org/) - Passport is authentication middleware for Node.js. Extremely flexible and modular, Passport can be unobtrusively dropped in to any Express-based web application.
 
-# Authors
+### Authors
 
 * [iamprincesuman] ( https://github.com/PrinceSuman7 )
 

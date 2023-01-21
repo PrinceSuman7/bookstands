@@ -1,6 +1,6 @@
 # Bookstands
 
-Book Store is a straightforward single page application (SPA) that enables you to buy, rate, and comment on all of the books that are offered for sale. Additionally, you can make a list of your favourite books or view the history of all the books you've bought.
+Bookstands is a straightforward single page application (SPA) that enables you to buy, rate, and comment on all of the books that are offered for sale. Additionally, you can make a list of your favourite books or view the history of all the books you've bought.
 
 # Technologies used
 

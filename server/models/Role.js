@@ -1,7 +1,7 @@
 const mongoose = require('mongoose');
 const User = mongoose.model('User');
 const Cart = mongoose.model('Cart');
-const Encryption = require('../utilities/encryption');
+const Encryption = require('../middlewares/encryption');
 
 const role_schema = mongoose.Schema({
     name: { 
